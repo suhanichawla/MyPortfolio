@@ -1,4 +1,4 @@
 # My Portfolio Website
 
-## Check it out at [suhanichawla.ml](http://suhanichawla.ml/)
+## Check it out at [suhanichawla.github.io](https://suhanichawla.github.io/MyPortfolio)
 
